@@ -9,7 +9,7 @@ They started at 10 o'clock and finished at 11.30.
 So, at 10.30 they were playing tennis.
 ```
 
-例句里，在10：30表示两人在过去一个时刻正在做的行为。所以，使用过去进行时。
+例句里，在 10：30 表示两人在过去一个时刻正在做的行为。所以，使用过去进行时。
 
 过去进行时和一般过去时有些差别。前者主要指在过去某一特定时间段内正在做的事情；后者用来强调过去做了某件事。下面这张图更详细地说明过去进行时和一般过去时：
 
@@ -24,6 +24,6 @@ So, at 10.30 they were playing tennis.
 > He phoned me while I was having dinner with my family.
 
 
-- 某些词，一般不用过去进行时，比如**konw、want**
+- 某些词，一般不用过去进行时，比如 **konw、want**
 > We were good firends. We knew each other very well.
 > I was enjoying the party, but Kim wanted to go home.
