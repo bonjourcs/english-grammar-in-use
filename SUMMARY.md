@@ -1,6 +1,6 @@
 # Summary
-* [实用英语语法](https://github.com/bonjourcs/English-Grammar-In-Use-CE)
 
+A tiny English grammar book.
 
 # About
 * [00 关于本书](README.md) 
