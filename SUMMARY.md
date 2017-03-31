@@ -11,4 +11,5 @@ A tiny English grammar book.
   * [1.4 一般过去时](present-and-past/present-simple.md)
   * [1.5 过去进行时](present-and-past/past-continuous.md)
 
-* [02 过去完成和过去](present-perfect-and-past/README.md)
+* [02 完成和过去](present-prefect-and-past/README.md)
+  * [2.1 现在完成时](present-prefect-and-past/present-prefect.md)
