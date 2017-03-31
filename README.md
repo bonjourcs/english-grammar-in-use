@@ -1,6 +1,6 @@
 # 关于本书
 
-这本书是『English Grammar In Use 4th Edition』的精简版，是本人学习英语语法的参考书籍。因为这本书写得通俗易懂，故本人将其翻译成汉语，供希望学习英语语法的同学参考。该书的原版可以在[ archive.org ](https://archive.org/details/3EnglishGrammarInUse4thEdition)找到，喜欢英文的同学直接访问。
+这本书是『English Grammar In Use 4th Edition』的精简版，是本人学习英语语法的参考书籍。因为原书写得通俗易懂，故本人将其翻译成汉语，供希望学习英语语法的同学参考。该书的原版可以在[ archive.org ](https://archive.org/details/3EnglishGrammarInUse4thEdition)找到，喜欢英文的同学直接访问。
 
 在这本书里，我去除了原书的习题部分，提取了讲解语法的各个单元。
 
