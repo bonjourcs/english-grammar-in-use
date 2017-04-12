@@ -6,7 +6,7 @@
 这里有一个例句：
 
 ```
-Alex is a bus dirver, but now he is in bed asleep.
+Alex is a bus driver, but now he is in bed asleep.
 He is not drving a bus, but he drives a bus.
 ```
 
