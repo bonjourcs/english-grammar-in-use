@@ -6,7 +6,7 @@
 
 # 版权声明
 
-本电子书采用国际通用的[ CC BY-NC-SA ](https://creativecommons.org/licenses/by-nc-sa/4.0/)（署名-非商业用途-相同方式共享）方式共享。即，在此限制下，您可以对本作品进行：
+本电子书采用国际通用的[ CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)（署名-非商业用途-相同方式共享）协议。即，在此限制下，您可以对本作品进行：
 
 - 不受限制的复制、传播、使用
 - 再创作、调整内容
