@@ -1,12 +1,12 @@
 # 关于本书
 
-这本书是『English Grammar In Use 4th Edition』的精简版，是本人学习英语语法的参考书籍。因为这本书写得通俗易懂，故本人将其翻译成汉语，供希望学习英语语法的同学参考。该书的原版可以在[ archive.org ](https://archive.org/details/3EnglishGrammarInUse4thEdition)找到，喜欢英文的同学直接访问。
+这本书是『English Grammar In Use 4th Edition』的精简版，是本人学习英语语法的参考书籍。因为原书写得通俗易懂，故本人将其翻译成汉语，供希望学习英语语法的同学参考。该书的原版可以在[ archive.org ](https://archive.org/details/3EnglishGrammarInUse4thEdition)找到，喜欢英文的同学直接访问。
 
 在这本书里，我去除了原书的习题部分，提取了讲解语法的各个单元。
 
 # 版权声明
 
-本电子书采用国际通用的[ CC BY-NC-SA ](https://creativecommons.org/licenses/by-nc-sa/4.0/)（署名-非商业用途-相同方式共享）方式共享。即：在此限制下，您可以对本作品进行：
+本电子书采用国际通用的[ CC BY-NC-SA ](https://creativecommons.org/licenses/by-nc-sa/4.0/)（署名-非商业用途-相同方式共享）方式共享。即，在此限制下，您可以对本作品进行：
 
 - 不受限制的复制、传播、使用
 - 再创作、调整内容
