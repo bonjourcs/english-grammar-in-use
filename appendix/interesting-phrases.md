@@ -16,6 +16,10 @@
 
 - Fine.（好吧/善）
 
+## H
+
+- Hats off to you.（向你致敬/那你棒棒哒）
+
 ## I
 
 - I second that.（我同意/附议）
