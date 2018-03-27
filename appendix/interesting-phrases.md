@@ -23,3 +23,4 @@
 ## I
 
 - I second that.（我同意/附议）
+- In a nutshell.（简而言之/废话少说）
