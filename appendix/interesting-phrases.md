@@ -8,6 +8,10 @@
 
 # 短语列表
 
+## B
+
+- Bun in the oven. （怀孕）
+
 ## D
 
 - Ditto.（我也是/+1）
@@ -16,9 +20,25 @@
 
 - Fine.（好吧/善）
 
+## G
+
+- Get off the back of the trunk. （偷来的）
+
 ## H
 
 - Hats off to you.（向你致敬/那你棒棒哒）
+
+## K
+
+- Koncked up. （怀孕，有点贬义）
+
+## L
+
+- Little boys'/ladies' room. （卫生间）
+
+## P
+
+- Previously enjoyed. （用过的）
 
 ## I
 
