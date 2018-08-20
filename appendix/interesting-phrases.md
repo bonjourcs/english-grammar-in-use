@@ -11,7 +11,7 @@
 ## B
 
 - Bun in the oven. （怀孕）
-
+- Break a leg. （祝你好运）
 ## D
 
 - Ditto.（我也是/+1）
